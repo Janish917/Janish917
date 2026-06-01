@@ -4,7 +4,6 @@
 <br/>
 
 ### 🚀 About Me
-
 - 🎓 B.E. Computer Science @ Chandigarh University (2024 – Present)
 - 💻 Building real-world, production-ready web apps — not just tutorial projects
 - 🔭 Currently working on **AmbuLink** — a real-time smart-city emergency response system
@@ -15,7 +14,6 @@
 <br/>
 
 ### 🛠️ Tech Stack
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -42,14 +40,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Janish917&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janish917&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Janish917&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Janish917&theme=tokyonight" alt="GitHub Summary" />
 </p>
 
 <br/>
 
 ### 🤝 Connect With Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janish-9a699235a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sheoranjanish805@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Live_Project-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://enhix-studio.vercel.app)
+[![Live Project](https://img.shields.io/badge/Live_Project-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://enhix-studio.vercel.app)
